@@ -1,0 +1,12 @@
+{
+  "name": "zorbit",
+  "version": "1.0.0",
+  "description": "A utility for orbit calculations or space-related functions.\r upcoming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
